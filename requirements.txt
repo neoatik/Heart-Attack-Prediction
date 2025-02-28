@@ -1,4 +1,8 @@
 Pandas
 NumPy
 Seaborn
--e .
+scipy
+scikit-learn
+imblearn
+xgboost
+#-e .
