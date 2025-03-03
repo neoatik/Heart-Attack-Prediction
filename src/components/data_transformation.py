@@ -32,7 +32,7 @@ class DataTransformation:
                                  "Systolic",
                                  "Diabetes",
                                  "BP_Ratio",
-                                 "Exercise Hours Per Week",
+                                 "Exercise_Hours_Per_Week",
                                  "Triglycerides"]
             num_pipeline= Pipeline(
                 steps=[
