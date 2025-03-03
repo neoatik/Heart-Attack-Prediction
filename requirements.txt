@@ -5,5 +5,7 @@ scipy
 scikit-learn
 imblearn
 xgboost
+catboost
 dill
+XGBRegressor
 #-e .
