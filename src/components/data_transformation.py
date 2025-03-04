@@ -70,7 +70,7 @@ class DataTransformation:
                                  "Systolic",
                                  "Diabetes",
                                  "BP_Ratio",
-                                 "Exercise Hours Per Week",
+                                 "Exercise_Hours_Per_Week",
                                  "Triglycerides"]
 
             input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1)
